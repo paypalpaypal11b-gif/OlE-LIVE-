@@ -1,0 +1,6 @@
+{
+  "name": "OlE Live",
+  "description": "Live-streaming and creator-reward platform with Ethiopian Birr (ETB) wallet, real-time chat, virtual gifts, agency management, and host dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
