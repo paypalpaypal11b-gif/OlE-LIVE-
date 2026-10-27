@@ -1,0 +1,1 @@
+Create a new, complete mobile-friendly shooting game that runs directly in Google Chrome on Android phones. Use HTML, CSS, and JavaScript only. Include touch controls, enemies, weapons, levels, and virtual coins. Do not use Kotlin or Jetpack Compose. Make it playable in a web browser and explain how to publish it for free.
